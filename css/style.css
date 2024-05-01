@@ -1,0 +1,55 @@
+
+.continer {
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    background-color:rgb(198, 160, 160) ;
+}
+.stayle_titel{
+    color: rgb(98, 93, 89);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.border_dotes {
+    border-width: 2px 0 2px 0;
+    border-style: dotted;
+    border-color: #352e28;
+}
+
+.Bookmark {
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, rgb(226, 56, 56), rgb(39, 37, 37));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 20px;
+}
+
+form span {
+    margin-left: 7px;
+}
+
+form input {
+    height: 35px;
+}
+
+.SiteURL {
+    margin-top: 40px;
+}
+.btn-visit{
+       --bs-btn-bg: #9eb23b;
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #d99c39;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem #fec26055;
+}
+
+.Tc{
+    margin-left: 13%;
+}
